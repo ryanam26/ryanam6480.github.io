@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
+name: Ryan Morrison
 url: https://zachholman.com/left
-description: A fantastic blog that is fantastic.
-twitter: holman
+description: A cool new blog.
+twitter: ryanam26
